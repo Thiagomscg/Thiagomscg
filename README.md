@@ -17,4 +17,3 @@ Eu sou Thiago Beleza, estudante de programação Front End. atualmente estou apr
 ### Linguagens de Programação:
 
 - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascrip-logo">
-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React-logo">
