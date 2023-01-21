@@ -7,7 +7,7 @@ Eu sou Thiago Beleza, estudante de programação Front End. atualmente estou apr
 
 ###  Entre em Contato:
 
-- <a href="[https://www.instagram.com/thiagomscg/](https://www.instagram.com/neymar_catjr/)"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+- <a href="https://www.instagram.com/neymar_catjr/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 ### GITHUB status:
 
