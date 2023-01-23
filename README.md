@@ -1,3 +1,6 @@
+<img src="https://scontent.cdninstagram.com/v/t51.39111-15/327008670_505535731687321_9202283942220403787_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5a057b&_nc_ohc=IbvvPd5tftoAX_FZGxx&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.cdninstagram.com&oh=02_AVCi6EfdVzUDUYzBKP0Qa7Q_Xs1XnTXEKKF3sUH4dZ5E9A&oe=63D40A7B" alt="">
+
+
 ### <h1>𝔽𝕒𝕝𝕒𝕒𝕒𝕒 𝕡𝕖𝕤𝕤𝕠𝕒𝕝👋!!!</h1>
 
 <p><strong>Muito</strong> prazer, meu nome é Thiago Beleza, eu sou um estudante de programação Full-Stack, por mais que ainda não tenha aprendido a parte Back-End. atualmente estou aprendendo, criando meus projetos e trabalhando com:</p>
